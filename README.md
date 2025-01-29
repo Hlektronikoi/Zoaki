@@ -13,7 +13,14 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
+1 Arduino uno compatible board
+8 μοτέρ MG90 για τις αρθρώσεις των ποδιών 
+1 Μodule bluetooth HC06
+3 packs jumper wires 15cm male to male
+2 breadboard mini-black
+1 Αντάπτορας 9V Μπαταρία σε Jack 5.5x2.1mm για Arduino
+1 Energizer ACCU Recharge Power Plus 9V 175mAh 1τμχ
+1 Ultrasonic Sensor - Ranging Detector 2 - 400cm HC-SR04
 
 # 💻 Code Language
 <picture>
