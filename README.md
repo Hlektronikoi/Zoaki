@@ -28,7 +28,7 @@
 
 [1 Αντάπτορας 9V Μπαταρία σε Jack 5.5x2.1mm για Arduino](https://grobotronics.com/arduino-9v-jack-adapter.html?srsltid=AfmBOopAahiln1ZbiIJBzCy1_Khp-MwEllsDqCfluAfJJivjWDdCQo63)
 
-[1 Energizer ACCU Recharge Power Plus 9V 175mAh 1τμχ](https://www.skroutz.gr/s/4956130/Energizer-Power-Plus-Epanafortizomeni-Mpataria-9V-Ni-MH-175mAh-1tmch.html)
+[1 Battery 9V Varta Longlife Power - 550mAh](https://grobotronics.com/battery-9v-varta-longlife-550mah.html)
 
 [1 Ultrasonic Sensor - Ranging Detector 2 - 400cm HC-SR04](https://grobotronics.com/ultrasonic-sensor-sr04.html?sl=en&srsltid=AfmBOooFlvRa-6Qu0Zk_XPp4RR_WE78Am6l__Cy5Fub8jk7ckyLn6PN8)
 
