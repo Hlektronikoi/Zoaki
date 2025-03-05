@@ -22,7 +22,7 @@
 
 [1 Μodule bluetooth HC06](https://grobotronics.com/bluetooth-module-for-arduino-hc06.html?srsltid=AfmBOoqKo_tHmaH0HKv4QrUtvKVK2KKXOtOdqrghE_UZ6ZE6Dhy1xbOG)
 
-[3 packs jumper wires 15cm male to male](https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html)
+[4 packs jumper wires 15cm male to male](https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html)
 
 [2 breadboard mini-black](https://grobotronics.com/breadboard-170-black.html?sl=en&srsltid=AfmBOornSqBo8LKOGWfVglvk-940Ss4kUXreP7u82EMMZgPjaDN9tIbk)
 
