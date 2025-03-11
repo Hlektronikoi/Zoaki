@@ -26,9 +26,7 @@
 
 [2 breadboard mini-black](https://grobotronics.com/breadboard-170-black.html?sl=en&srsltid=AfmBOornSqBo8LKOGWfVglvk-940Ss4kUXreP7u82EMMZgPjaDN9tIbk)
 
-[1 Αντάπτορας 9V Μπαταρία σε Jack 5.5x2.1mm για Arduino](https://grobotronics.com/arduino-9v-jack-adapter.html?srsltid=AfmBOopAahiln1ZbiIJBzCy1_Khp-MwEllsDqCfluAfJJivjWDdCQo63)
-
-[Basic 16x2 Character LCD - Blue 3.3V/5V (I2C Protocol)](https://grobotronics.com/basic-16x2-character-lcd-blue-3.3v-5v-i2c-protocol.html)
+[1 Basic 16x2 Character LCD - Blue 3.3V/5V (I2C Protocol)](https://grobotronics.com/basic-16x2-character-lcd-blue-3.3v-5v-i2c-protocol.html)
 
 [1 Ultrasonic Sensor - Ranging Detector 2 - 400cm HC-SR04](https://grobotronics.com/ultrasonic-sensor-sr04.html?sl=en&srsltid=AfmBOooFlvRa-6Qu0Zk_XPp4RR_WE78Am6l__Cy5Fub8jk7ckyLn6PN8)
 
