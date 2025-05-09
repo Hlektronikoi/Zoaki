@@ -9,7 +9,7 @@
 
 ![Prototype 2](https://github.com/user-attachments/assets/cff5d3a1-53fc-4ae7-a740-63f0e2d61d32)
 
-# 🎥
+# 🎥 Video
 
 ---
 
