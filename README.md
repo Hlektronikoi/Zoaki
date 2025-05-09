@@ -5,9 +5,7 @@
 
 Η ιδέα του project είναι να δημιουργηθεί ένα ρομπότ κατοικίδιο που θα είναι ικανό να εκτελεί βασικές κινήσεις και να αλληλεπιδρά με το περιβάλλον. Θα βασίζεται σε ένα σύστημα ελέγχου με Arduino και θα χρησιμοποιεί αισθητήρες για να αντιλαμβάνεται το περιβάλλον του. Το ρομπότ θα είναι σε θέση να περπατάει.
 
-![Prototype](https://github.com/user-attachments/assets/ec9391bf-2679-474a-95a9-0d6f21157249)
-
-![Prototype 2](https://github.com/user-attachments/assets/cff5d3a1-53fc-4ae7-a740-63f0e2d61d32)
+![Prototype](https://github.com/Hlektronikoi/Zoaki/blob/main/Zoaki.gif)
 
 # 🎥 Video
 
