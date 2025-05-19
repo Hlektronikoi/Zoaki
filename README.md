@@ -23,13 +23,11 @@ https://youtu.be/mbPmRKQrVss
 
 [8 μοτέρ MG90 για τις αρθρώσεις των ποδιών](https://grobotronics.com/servo-micro-2.8kg.cm-metal-gears-waveshare-mg90s.html)
 
-[1 Μodule bluetooth HC06](https://grobotronics.com/bluetooth-module-for-arduino-hc06.html?srsltid=AfmBOoqKo_tHmaH0HKv4QrUtvKVK2KKXOtOdqrghE_UZ6ZE6Dhy1xbOG)
+[1 Waveshare LCD 1602 I2C](https://grobotronics.com/basic-16x2-character-lcd-rgb-3.3v-5v-i2c-protocol.html)
 
 [4 packs jumper wires 15cm male to male](https://grobotronics.com/jumper-wires-15cm-male-to-male-pack-of-10.html)
 
-[2 breadboard mini-black](https://grobotronics.com/breadboard-170-black.html?sl=en&srsltid=AfmBOornSqBo8LKOGWfVglvk-940Ss4kUXreP7u82EMMZgPjaDN9tIbk)
-
-[1 Basic 16x2 Character LCD - Blue 3.3V/5V (I2C Protocol)](https://grobotronics.com/basic-16x2-character-lcd-blue-3.3v-5v-i2c-protocol.html)
+[1 breadboard mini-black](https://grobotronics.com/breadboard-170-black.html?sl=en&srsltid=AfmBOornSqBo8LKOGWfVglvk-940Ss4kUXreP7u82EMMZgPjaDN9tIbk)
 
 [1 Ultrasonic Sensor - Ranging Detector 2 - 400cm HC-SR04](https://grobotronics.com/ultrasonic-sensor-sr04.html?sl=en&srsltid=AfmBOooFlvRa-6Qu0Zk_XPp4RR_WE78Am6l__Cy5Fub8jk7ckyLn6PN8)
 
